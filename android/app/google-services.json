@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228168110750",
+    "project_id": "memause-d835e",
+    "storage_bucket": "memause-d835e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228168110750:android:83dbee2f6200ea23cd618f",
+        "android_client_info": {
+          "package_name": "com.example.zxzc9992"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228168110750-b7rho7i2ommbgiorb3lj3c8f5g30imhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5W9cp6XqetycR8pSlsY_1ZU1kUVMVk24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228168110750-b7rho7i2ommbgiorb3lj3c8f5g30imhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

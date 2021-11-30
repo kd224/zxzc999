@@ -1,0 +1,20 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+  errors:
+    todo: info  
+
+linter:
+  rules:
+    avoid_print: false
+    sort_child_properties_last: false
+    avoid_positional_boolean_parameters: false
+    file_names: false
+    directives_ordering: false
+    avoid_void_async: false
+    prefer_if_elements_to_conditional_expressions: false
+    sized_box_for_whitespace: false
+    constant_identifier_names: false
+    avoid_classes_with_only_static_members: false
